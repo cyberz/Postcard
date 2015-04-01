@@ -13,6 +13,8 @@
 		7836F88B1ACBFD3A002B8DD9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7836F88A1ACBFD3A002B8DD9 /* Images.xcassets */; };
 		7836F88E1ACBFD3A002B8DD9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7836F88C1ACBFD3A002B8DD9 /* LaunchScreen.xib */; };
 		7836F89A1ACBFD3A002B8DD9 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7836F8991ACBFD3A002B8DD9 /* PostcardTests.swift */; };
+		7836F8A41ACC02A8002B8DD9 /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7836F8A31ACC02A8002B8DD9 /* images.jpg */; };
+		7836F8A61ACC0644002B8DD9 /* king.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7836F8A51ACC0644002B8DD9 /* king.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		7836F8931ACBFD3A002B8DD9 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7836F8981ACBFD3A002B8DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7836F8991ACBFD3A002B8DD9 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		7836F8A31ACC02A8002B8DD9 /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		7836F8A51ACC0644002B8DD9 /* king.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = king.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		7836F8811ACBFD3A002B8DD9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7836F8A51ACC0644002B8DD9 /* king.jpeg */,
+				7836F8A31ACC02A8002B8DD9 /* images.jpg */,
 				7836F8821ACBFD3A002B8DD9 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				7836F8891ACBFD3A002B8DD9 /* Main.storyboard in Resources */,
 				7836F88E1ACBFD3A002B8DD9 /* LaunchScreen.xib in Resources */,
 				7836F88B1ACBFD3A002B8DD9 /* Images.xcassets in Resources */,
+				7836F8A41ACC02A8002B8DD9 /* images.jpg in Resources */,
+				7836F8A61ACC0644002B8DD9 /* king.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
